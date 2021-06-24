@@ -1,5 +1,10 @@
-# Getting Started with Create React App
+# Airbnb Front End Project
+React Project that is a clone of the Airbnb Webpage features.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Airbnb Front End Project
+## Status
+Might return and make it a Full Stack project with User Accounts and API if time allows.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
