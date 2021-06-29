@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './styles/App.css';
 import Home from './Home';
 import Header from './Header';
 import SearchPage from './SearchPage';
